@@ -1,0 +1,21 @@
+{
+  "name": "Аграфена «Граня» — Daggerheart",
+  "short_name": "Граня · DH",
+  "description": "Интерактивный лист Лунной ведьмы второго уровня",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17121f",
+  "theme_color": "#17121f",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
